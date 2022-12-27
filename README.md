@@ -1,1 +1,0 @@
-Simple calculator using python.
